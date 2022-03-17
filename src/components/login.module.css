@@ -1,0 +1,42 @@
+/* .div{ 
+    /* display: block; */
+    /* display: flex;
+     flex-direction: column;
+     justify-content: center;
+     align-items: center; */
+         
+ /* } 
+input{
+    display: block;
+
+    /* margin-top:10px; */
+    /* margin-top: 20px; */
+/* } */
+/* .btns{
+    border: 1px solid black;
+    padding-top: 20px;
+    display: block;
+    margin-top: 10px; */
+/* } */ 
+
+.div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background-color: rgb(2, 104, 104);
+}
+.divs{
+    background-color: rgb(109, 176, 207);
+    width: 300px;
+    text-align: center;
+    padding-top: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+
+    height: 320px;
+    /* padding: 20px 30px; */
+    margin: 30px 30px;
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+    /* border: 1px solid red; */
+}
